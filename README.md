@@ -6,19 +6,19 @@ Using a head model I developed a methodology for modelling the human ear with a 
 
 <p align="center">
 Block diagram of the methodology:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="398" alt="EarBD" src="https://github.com/RaySotOz/EarMalformation/assets/148705262/7965c17a-74e0-45a6-ad39-e707a0ec1458">
 <br />
 <br />
 Agisoft outcome: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="409" alt="Ear Mesh" src="https://github.com/RaySotOz/EarMalformation/assets/148705262/416ca3f6-5c72-4cdf-bb04-5bdb530e126f">
 <br />
 <br />
 Post-processing of the ear:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="381" alt="PostProcessing" src="https://github.com/RaySotOz/EarMalformation/assets/148705262/cf79a2c8-9df0-45f3-952d-3f262749c781">
 <br />
 <br />
 3D printed model:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="164" alt="3Dprint" src="https://github.com/RaySotOz/EarMalformation/assets/148705262/44c44c60-086a-454f-9879-45e895b584a1">
 <br />
 <br />
 
